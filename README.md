@@ -20,14 +20,14 @@ Wordpress
     1. Email
     ...
 
-####Используемые плагины
-    1. FooBox Image Lightbox
-    1. FooGallery
-    1. Preloader Plus
-    1. RSS for Yandex Turbo
-    1. Webcraftic Cyr to Lat reloaded
-    1. WP-PostRatings
-    1. WP-PostViews
-    1. XML Sitemap & Google News
-    1. Yoast SEO
-    1. Яндекс.Метрика (счётчик)
+#### Используемые плагины
+1. FooBox Image Lightbox
+1. FooGallery
+1. Preloader Plus
+1. RSS for Yandex Turbo
+1. Webcraftic Cyr to Lat reloaded
+1. WP-PostRatings
+1. WP-PostViews
+1. XML Sitemap & Google News
+1. Yoast SEO
+1. Яндекс.Метрика (счётчик)
